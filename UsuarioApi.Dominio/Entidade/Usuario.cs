@@ -30,10 +30,5 @@ public class Usuario
             DataAtualizacao = DateTime.Now; 
         }
     }
-    public void AtualizarDados(string nome, string email)
-    {
-        Nome = nome;
-        Email = email;
-        DataAtualizacao = DateTime.Now;
-    }
+  
 }
