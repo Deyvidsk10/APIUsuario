@@ -1,0 +1,26 @@
+## Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Pacotes NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+
+## Publicação e Execução
+publish/
+out/
+appsettings.Development.json
+
+## Banco de Dados Local (SQL Server Express / LocalDB)
+*.mdf
+*.ldf
+*.sdf
+
+## Outros
+.DS_Store
+Thumbs.db
